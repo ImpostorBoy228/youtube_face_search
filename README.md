@@ -1,6 +1,6 @@
 # YouTube Face Search
 
-This script searches for specific people in YouTube videos within a given date range.
+This script searches for specific people in YouTube videos within a given date range. This project is a unlucky try to win challenge(hide and seek game in youtube) by YouTuber called nowkie
 
 ## Requirements
 - Python 3.10
