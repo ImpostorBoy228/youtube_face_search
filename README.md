@@ -3,7 +3,7 @@
 This script searches for specific people in YouTube videos within a given date range. This project is a unlucky try to win challenge(hide and seek game in youtube) by YouTuber called nowkie
 
 ## Freaking clean code moralfag disclaimer
-_This is pilot version of code. my deadlines at the moment was like: idk one week.. OR TOMORROW _
+_This is pilot version of code. my deadlines at the moment was like: idk one week.. OR TOMORROW_
 all constantes are hardcoded. if you want you can fork my project and give this clean codebase
 
 ## Requirements
